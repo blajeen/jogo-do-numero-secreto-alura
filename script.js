@@ -13,4 +13,3 @@ while (chute != 5){
 chute = prompt('tente novamente');
     }
           alert('voce acertou');
-        }
